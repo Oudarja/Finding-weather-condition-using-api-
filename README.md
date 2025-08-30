@@ -4,9 +4,6 @@ Weather Application
 ## Description
 A simple weather application built using Tkinter for the graphical user interface (GUI) and the OpenWeatherMap API to retrieve weather data.
 
-## Python Version
-This project uses Python 3.12.
-
 ## Features
 * Retrieves current weather data for a specified city using the OpenWeatherMap API
 * Displays weather information in a GUI with a background image
